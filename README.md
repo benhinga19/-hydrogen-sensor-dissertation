@@ -16,4 +16,5 @@ Matlab_code.m is matlab code to recieve data from arduino. This data is then plo
 ## Author
 
 Benjamin Hinga
+
 University dissertation project
