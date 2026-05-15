@@ -1,3 +1,5 @@
+## Hydrogen Sensor Dissertation Project
+
 # -hydrogen-sensor-dissertation
 Repository of Arduino and Matlab code for hydrogen sensing
 
