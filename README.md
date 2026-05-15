@@ -18,3 +18,7 @@ Matlab_code.m is matlab code to recieve data from arduino. This data is then plo
 Benjamin Hinga
 
 University dissertation project
+
+## Notes
+
+ChatGPT was used to assist with generating initial code for MATLAB serial data streaming and some basic Arduino functions, particularly in areas unfamiliar to the author. The generated code was subsequently reviewed, adapted, tested, and validated within the project to ensure correct operation and suitability for the experimental setup.
